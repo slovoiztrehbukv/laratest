@@ -519,23 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".env",
-			"settings":
-			{
-				"buffer_size": 716,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/layouts/app.blade.php",
-			"settings":
-			{
-				"buffer_size": 3534,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -615,6 +598,11 @@
 	],
 	"file_history":
 	[
+		"/C/OSPanel/domains/laravel-test/blog/.git/COMMIT_EDITMSG",
+		"/C/OSPanel/domains/catering.loc/wp-config.php",
+		"/C/OSPanel/domains/laravel-test/blog/.env",
+		"/C/Users/Глеб/AppData/Local/Temp/_tc/cq25575_wp.sql",
+		"/C/OSPanel/domains/catering.loc/cq25575_wp.sql",
 		"/C/OSPanel/domains/laravel-test/blog/resources/views/about.blade.php",
 		"/C/OSPanel/domains/laravel-test/blog/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
 		"/C/OSPanel/domains/laravel-test/blog/4tests.php",
@@ -737,16 +725,11 @@
 		"/D/other/web/riha/news-page.php",
 		"/D/other/web/riha/header.php",
 		"/D/other/web/al-halal/gwolle/gb-read.php",
-		"/D/other/web/al-halal/style.css",
-		"/D/other/web/al-halal/gwolle/gwolle_gb-entry.php",
-		"/D/other/web/al-halal/wp-config.php",
-		"/D/other/web/al-halal/func/theme-woocommerce.php",
-		"/D/other/web/al-halal/all_theme/woocommerce/notices/success.php",
-		"/D/other/web/al-halal/style.php"
+		"/D/other/web/al-halal/style.css"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -763,6 +746,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"http://grand-cateringmsk.ru",
 			"allow",
 			"console.l",
 			"<form",
@@ -889,8 +873,7 @@
 			"главная",
 			"1d979b_cb94e8e40e9443ddb13dc8a8aa23625a~mv2.png",
 			"80%",
-			"nav_m",
-			"var_d"
+			"nav_m"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -898,6 +881,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"catering.loc",
 			"http",
 			"https",
 			"НДСБюро",
@@ -977,73 +961,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".env",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 716,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								274,
-								274
-							]
-						],
-						"settings":
-						{
-							"git_savvy.repo_path": "C:\\OSPanel\\domains\\laravel-test\\blog",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "resources/views/layouts/app.blade.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 3534,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2457,
-								2457
-							],
-							[
-								2458,
-								2458
-							]
-						],
-						"settings":
-						{
-							"git_savvy.repo_path": "C:\\OSPanel\\domains\\laravel-test\\blog",
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 960.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
